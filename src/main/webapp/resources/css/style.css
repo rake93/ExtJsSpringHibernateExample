@@ -1,0 +1,13 @@
+h1 {
+	margin: 25px 0 0 25px;
+}
+
+#letter-form{
+	margin: 25px 0 0 25px;
+}
+
+.publish{
+	cursor: pointer;
+	color: blue;
+	font-weight: bold;
+}
